@@ -41,7 +41,15 @@ button{
   background-color: rgb(211, 15, 178);
 
 
-}}
+}
+
+.device{
+  display: none;
+}
+
+
+
+}
 
 
 @media (max-width: 600px){
@@ -50,7 +58,16 @@ button{
   background-color: rgb(15, 28, 211);
 
 
-}}
+}
+.pc{
+  display: none;
+}
+
+.cell{
+  display: none;
+}
+
+}
 
 @media (max-width: 350px){
 
@@ -58,6 +75,12 @@ body{
   background-color: rgb(15, 211, 64);
 }
 
+.cell{
+  display: block;
+
 }
 
-
+.tablet{
+  display: none;
+}
+}

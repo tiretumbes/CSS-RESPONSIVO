@@ -20,6 +20,30 @@ return (
     </button>
   </div>
 
+
+
+     <div className="pc">
+      <h1>Tela detectada: PC</h1>
+      </div>
+    
+      <div className="device">
+      
+      
+    <div className="cell">
+    <h1>Tela detectada: celular</h1>
+    </div>
+
+      <div className="tablet">
+      <h1>Tela detectada: tablet</h1>
+      </div>
+  
+
+    
+
+      </div>
+    
+ 
+
   
   </div>
 
